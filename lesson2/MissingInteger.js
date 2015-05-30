@@ -1,4 +1,9 @@
-function solution(A) {
+/**
+ * Javascript solution to codility lesson 2 - Counting Elements -> MissingInteger.
+ * Score: 100/100
+ * https://codility.com/demo/take-sample-test/missing_integer/
+ */
+ function solution(A) {
     var count = {}, mpi = A.length + 1;
 
     A.forEach(function(number) {
