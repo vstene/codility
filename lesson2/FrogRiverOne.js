@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 2 - Counting Elements -> FrogRiverOne.
+ * Javascript solution to Codility Lesson 2 - Counting Elements -> FrogRiverOne.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/frog_river_one/
  */

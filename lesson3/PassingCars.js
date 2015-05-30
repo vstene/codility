@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 3 - Prefix Sums -> PassingCars.
+ * Javascript solution to Codility Lesson 3 - Prefix Sums -> PassingCars.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/passing_cars/
  */

@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 1 - Time Complexity -> PermMissingElem.
+ * Javascript solution to Codility Lesson 1 - Time Complexity -> PermMissingElem.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/perm_missing_elem/
  */

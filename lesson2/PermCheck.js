@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 2 - Counting Elements -> PermCheck.
+ * Javascript solution to Codility Lesson 2 - Counting Elements -> PermCheck.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/perm_check/
  */

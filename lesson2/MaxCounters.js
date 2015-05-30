@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 2 - Counting Elements -> MaxCounters.
+ * Javascript solution to Codility Lesson 2 - Counting Elements -> MaxCounters.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/max_counters/
  */

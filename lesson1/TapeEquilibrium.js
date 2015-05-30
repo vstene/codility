@@ -1,5 +1,5 @@
 /**
- * Javascript solution to codility lesson 1 - Time Complexity -> TapeEquilibrium.
+ * Javascript solution to Codility Lesson 1 - Time Complexity -> TapeEquilibrium.
  * Score: 100/100
  * https://codility.com/demo/take-sample-test/tape_equilibrium/
  */
